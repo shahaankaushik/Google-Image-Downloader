@@ -23,7 +23,7 @@ This Streamlit app allows users to search for images using Google Image Search (
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/google-image-downloader.git
+   git clone https://github.com/shahaankaushik/Google-Image-Downloader
    cd google-image-downloader
    ```
 
